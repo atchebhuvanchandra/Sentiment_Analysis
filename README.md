@@ -5,6 +5,8 @@ All the project code files are in code folder
 Step 1:
 Run preprocess.py using command line as /Dataset/tweets.csv 
 output file is /Dataset/tweets-processed.csv
+
+
 Step 2:
 Set the test_file = "False"
 and run the preprocess.py using command line arguement as /Dataset/tweets-test.csv
